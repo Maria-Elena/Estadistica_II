@@ -2,3 +2,5 @@ Considerando las hipótesis planteadas y siendo que el objetivo es entender que 
 
 Este análisis debe seguir el siguiente modelo: 
 
+
+
